@@ -11,3 +11,4 @@ target/
 *.iml
 *.ipr
 80020_xml_to_send
+.DS_Store
